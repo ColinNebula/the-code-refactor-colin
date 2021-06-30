@@ -1,11 +1,10 @@
 # the-code-refactor-colin
 
-
-
-
-The Code Refractor Colin Colin Nebula
+The Code Refractor 
 
 gitbhub url to Project
+https://colinnebula.github.io/the-code-refactor-colin/
+
 
 AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 

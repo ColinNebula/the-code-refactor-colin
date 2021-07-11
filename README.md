@@ -10,6 +10,14 @@ This website is ethical, it offers an oppotunity to help disabled people, the se
 https://colinnebula.github.io/the-code-refactor-colin/
 
 # GitHub Repository
+https://github.com/ColinNebula/the-code-refactor-colin
+
+# Code refactor screenshot
+![Screenshot -code-refactor-colin](https://user-images.githubusercontent.com/57843842/125205444-4a7e8a00-e250-11eb-9b3b-332b86c4dbad.png)
+
+# Markup fo the code refactor
+![001-version2-mock-up-main](https://user-images.githubusercontent.com/57843842/125205480-739f1a80-e250-11eb-8a34-4bc1bd732014.png)
+
 
 # Table of Contents
 

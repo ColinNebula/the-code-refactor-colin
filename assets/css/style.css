@@ -26,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,11 +34,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -80,8 +80,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-
 
 /* Benefits elenent starts Here */
 .benefits {
@@ -145,7 +143,7 @@ p {
 /* Benefits elenent Ends Here */
 
 
-/* content elenent starts Here */
+/* Main content elenent starts Here */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,7 +153,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -172,18 +170,21 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Main content elenent starts Here */
 
+/* Main content images */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+#online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
 }
+/* Main content images End */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -199,7 +200,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Main content element Ends Here */
 
 /* Footer elenent starts Here */
 .footer {

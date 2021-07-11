@@ -1,4 +1,4 @@
-the-code-refactor-colin
+# the-code-refactor-colin
 
 Colin Nebula The Code Refractor
 
@@ -6,27 +6,37 @@ Horiseon Webpage
 
 This website is ethical, it offers an oppotunity to help disabled people, the search engine optimization is essential in accomplishing that goal along with other exciting features. This webpage is properly geared to reach as many users as possible. It has a lot of features including search engine optimisation, accessibility for people with vision disabilities.
 
-Demo Preview https://colinnebula.github.io/the-code-refactor-colin/
+# Demo Preview 
+https://colinnebula.github.io/the-code-refactor-colin/
 
-Table of Content
+# GitHub Repository
 
-Search Engine Optimization
+# Table of Contents
 
-Online Reputation Managment
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-Social Media Marketing
 
-Installatinon With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
+# Installatinon
+With the use of any browser the user can connect to the website and all of the available feature will be at every users finger tips.
 
-Usage With the use all of the popular browser, type to website link and blast-off.
+# Usage 
+With the use all of the popular browser, type to website link and blast-off.
 
-Development N/A
+# Development: 
+N/A
 
-License MIT
+# License: 
+MIT
 
-Contribute
+# Credits: 
+Earth
 
-    Debugging, adding new features
+# Contribute:
+Debugging, adding new features
+
 
 AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 

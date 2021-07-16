@@ -6,16 +6,16 @@ Horiseon Webpage
 
 This website is ethical, it offers an oppotunity to help disabled people, the search engine optimization is essential in accomplishing that goal along with other exciting features. This webpage is properly geared to reach as many users as possible. It has a lot of features including search engine optimisation, accessibility for people with vision disabilities.
 
-# Demo Preview 
+# URL
 https://colinnebula.github.io/the-code-refactor-colin/
 
 # GitHub Repository
-https://github.com/ColinNebula/the-code-refactor-colin
+https://github.com/ColinNebula/the-code-refactor-colin/tree/develop
 
 # Code refactor screenshot
 ![Screenshot -code-refactor-colin](https://user-images.githubusercontent.com/57843842/125205444-4a7e8a00-e250-11eb-9b3b-332b86c4dbad.png)
 
-# Markup for the code refactor
+# Markup fo the code refactor
 ![markup-for-code-refactor](https://user-images.githubusercontent.com/57843842/125206026-f923ca00-e252-11eb-880b-0a9f3bef7b09.png)
 
 
